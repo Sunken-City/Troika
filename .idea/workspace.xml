@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b53ccd9c-c1ed-47ef-8add-625caa41a7d6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/lib/game/entities/player.js" />
-    </list>
+    <list default="true" id="b53ccd9c-c1ed-47ef-8add-625caa41a7d6" name="Default" comment="" />
     <ignored path="Laughing-Octopus.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="player.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="player.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="63" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.6086956" vertical-offset="775" max-vertical-offset="1650">
+            <state line="75" column="63" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1650">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="greenBlock.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="greenBlock.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/greenBlock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="13" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+            <state line="30" column="44" selection-start="771" selection-end="771" vertical-scroll-proportion="0.7304348" vertical-offset="0" max-vertical-offset="735">
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -344,15 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/greenBlock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="13" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/fireball.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1125">
@@ -369,8 +357,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="63" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.6086956" vertical-offset="775" max-vertical-offset="1650">
+        <state line="75" column="63" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1650">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/greenBlock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="44" selection-start="771" selection-end="771" vertical-scroll-proportion="0.7304348" vertical-offset="0" max-vertical-offset="735">
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
