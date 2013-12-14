@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b53ccd9c-c1ed-47ef-8add-625caa41a7d6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/purpleBlock.js" />
     </list>
     <ignored path="Laughing-Octopus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,10 +46,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="greenBlock.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="greenBlock.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/greenBlock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="29" selection-start="621" selection-end="621" vertical-scroll-proportion="0.4753521" vertical-offset="90" max-vertical-offset="1005">
+            <state line="24" column="29" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1005">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="purpleBlock.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/purpleBlock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="17" selection-start="987" selection-end="987" vertical-scroll-proportion="0.5809859" vertical-offset="270" max-vertical-offset="1005">
               <folding />
             </state>
           </provider>
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/lib/game/entities/player.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/orb.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/greenBlock.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/purpleBlock.js" />
       </list>
     </option>
   </component>
@@ -240,7 +250,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/game/entities" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -249,11 +274,18 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -444,7 +476,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/greenBlock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="621" selection-end="621" vertical-scroll-proportion="0.4753521" vertical-offset="90" max-vertical-offset="1005">
+        <state line="24" column="29" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/purpleBlock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="17" selection-start="987" selection-end="987" vertical-scroll-proportion="0.5809859" vertical-offset="270" max-vertical-offset="1005">
           <folding />
         </state>
       </provider>
