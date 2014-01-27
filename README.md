@@ -26,3 +26,13 @@ Conversed and planned using Google Hangouts
 ************************************ 
 
 We had a BLAST making this game and are already itching for the next Ludum Dare! Well, after some sleep, perhaps... hope you enjoy! 
+
+
+Ratings
+#88	Fun(Jam)	3.42
+#129	Overall(Jam)	3.42
+#145	Graphics(Jam)	3.77
+#154	Theme(Jam)	3.15
+#167	Innovation(Jam)	3.15
+#259	Mood(Jam)	2.90
+#1571	Coolness	22%
