@@ -17,11 +17,16 @@ Anthony Cloudy - Programmer
 
 A special thanks to all those who joined the Google Hangout helped or suggested ideas. You know who you are. 
 
-Programmed with ImpactJS using Webstorm IDE 
+Programmed with ImpactJS using Webstorm IDE
+
 Art done in Photoshop CS2 
+
 Hosted with Amazon Cloud Services 
+
 Used Git for Source Control 
+
 Conversed and planned using Google Hangouts 
+
 
 ************************************ 
 
